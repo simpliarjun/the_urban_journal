@@ -1,0 +1,13 @@
+# Databases, archives and raw backups (Security)
+*.db
+*.sql
+*.tar
+*.zip
+*.tar.gz
+extracted/
+
+# Agent and IDE configurations
+.agents/
+.gemini/
+.DS_Store
+*.log
